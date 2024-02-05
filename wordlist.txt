@@ -8,3 +8,7 @@ glenn
 boule
 msfus
 logic
+lodal
+pchem
+achem
+ochem
